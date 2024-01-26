@@ -7,6 +7,11 @@
     --less-dark: #5C8374;
     --less-dark2: #9EC8B9;
 }
-html{
+html,body{
     overflow: hidden;
+}
+#root{
+    overflow: hidden !important;
+    position: relative;
+    height: 100vh;
 }
