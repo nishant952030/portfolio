@@ -2,7 +2,6 @@ import React from "react";
 import Navbar from "./components/navbar/Navbar";
 import "./index.css";
 import "../src/css/style.css"
-import { Octagon } from "lucide-react"
 import Intro from "./components/mainPAge/Intro";
 function App() {
   return (
