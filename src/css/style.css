@@ -1,0 +1,10 @@
+
+body{
+    background-color: var(--dark-green);
+}
+.octagon{
+    position: relative;
+    top: 30vh;
+    left: 50%;
+    animation:rotate 2s  linear infinite;
+}
