@@ -7,3 +7,6 @@
     --less-dark: #5C8374;
     --less-dark2: #9EC8B9;
 }
+html{
+    overflow: hidden;
+}

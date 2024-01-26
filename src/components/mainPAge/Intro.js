@@ -1,7 +1,6 @@
 import React from 'react'
 import "./intro.css"
 import { Bot } from "lucide-react"
-import { Parallax } from 'react-parallax'
 function Intro() {
   return (
     <div className='intro'>
