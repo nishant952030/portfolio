@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
 :root {
     --dark-green: #092635;
     --dark-green2: #1B4242;
@@ -11,7 +12,11 @@ html,body{
     overflow: hidden;
 }
 #root{
-    overflow: hidden !important;
+    overflow-x: hidden !important;
     position: relative;
-    height: 100vh;
+    height: 
+    100vh;
+}
+.work{
+    font-family: 'Nunito', sans-serif;
 }

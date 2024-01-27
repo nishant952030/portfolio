@@ -26,8 +26,8 @@ function Navbar() {
         setShowSideNAvbar(!ShowSideNAvbar)
     }
     return (
-        <div className='navbar-main pt-4'>
-            <nav className='nav'>
+        <div className='navbar-main  pt-4'>
+            <nav className='nav '>
                 <div className="logo">Dev.Nishant</div>
                 {showNavbar >= 630 ?
                     <div className='navbar-itmes'>

@@ -21,8 +21,8 @@ h1{
 p{
     color: var(--less-dark);
     margin-top: -3rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 3rem;
+    font-family: 'Nunito', sans-serif;
+    font-size: 2rem;
 }
 .bot{
     display: flex;
