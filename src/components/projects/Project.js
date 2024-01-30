@@ -43,12 +43,12 @@ const Project = () => {
                             </div>
                             <div className=' sm:pl-10 work-info'>
                                 <div className='text-4xl text-[#9ec8b9] pt-5 '>{project.projectTitle}</div>
-                                <div className='text-[#9ec8b9] opacity-40 text-xl pt-3 bg-[#9ec8b92a] rounded-lg px-2 m-2 pb-3'>{project.projectDescription}</div>
+                                <div className='text-[#9ec8b9] opacity-40 text-xl pt-3 bg-[#9ec8b92a] rounded-lg px-2 ml-2 pb-3'>{project.projectDescription}</div>
                                 <div className='text-[#9ec8b9] pt-3'>{project.usedFrameWork}</div>
                             </div>
                         </div>
                         <div className=' w-full bg-gradient-to-r from-transparent 
-                 via-[#9EC8B9] to-transparent h-1 opacity-30 mt-12'></div>
+                 via-[#9EC8B9] to-transparent h-1 opacity-30 mt-5 sm:mt-0 '></div>
                     </>
                 ))}
                 <div className='rectancle1'></div>
