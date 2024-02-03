@@ -65,3 +65,12 @@ html,body{
     }
 
 }
+.image {
+    position: absolute;
+    width: 20px;
+z-index: -3;
+}
+
+.mirror {
+    transform: scaleX(-1);
+}
